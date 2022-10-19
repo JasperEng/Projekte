@@ -1,8 +1,0 @@
-E:\c#\Zweitesprogramm\Zweitesprogramm\bin\Debug\Zweitesprogramm.exe
-E:\c#\Zweitesprogramm\Zweitesprogramm\bin\Debug\Zweitesprogramm.pdb
-E:\c#\Zweitesprogramm\Zweitesprogramm\obj\Debug\ResolveAssemblyReference.cache
-E:\c#\Zweitesprogramm\Zweitesprogramm\obj\Debug\Zweitesprogramm.Form1.resources
-E:\c#\Zweitesprogramm\Zweitesprogramm\obj\Debug\Zweitesprogramm.Properties.Resources.resources
-E:\c#\Zweitesprogramm\Zweitesprogramm\obj\Debug\Zweitesprogramm.csproj.GenerateResource.Cache
-E:\c#\Zweitesprogramm\Zweitesprogramm\obj\Debug\Zweitesprogramm.exe
-E:\c#\Zweitesprogramm\Zweitesprogramm\obj\Debug\Zweitesprogramm.pdb
