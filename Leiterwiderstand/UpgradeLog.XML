@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Leiterwiderstand">
+</Property><Property Name="Projektmappendatei" Value="\\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Leiterwiderstand.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="\\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Leiterwiderstand.suo">
+</Property><Property Name="Date" Value="Donnerstag, 10. März 2022">
+</Property><Property Name="Time" Value="08:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Leiterwiderstand.sln" Description="Datei wurde erfolgreich als &quot;\\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="Leiterwiderstand.suo" Description="Datei wurde erfolgreich als &quot;\\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Leiterwiderstand.csproj" Description="Projektdatei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Leiterwiderstand.csproj">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Auswertung.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Auswertung.cs">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Form1.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Form1.Designer.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Program.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Program.cs">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Properties\Resources.Designer.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Properties\Settings.Designer.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Properties\Settings.settings" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Form1.resx" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Properties\Resources.resx" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Backup\Leiterwiderstand\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Leiterwiderstand.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="Leiterwiderstand" Source="Leiterwiderstand\Leiterwiderstand.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Leiterwiderstand.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="Leiterwiderstand.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Leiterwiderstand" Source="Leiterwiderstand\Leiterwiderstand.csproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

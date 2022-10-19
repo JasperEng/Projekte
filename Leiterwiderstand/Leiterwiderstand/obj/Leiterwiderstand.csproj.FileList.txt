@@ -1,0 +1,8 @@
+obj\Debug\Leiterwiderstand.exe
+obj\Debug\Leiterwiderstand.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Leiterwiderstand.Form1.resources
+obj\Debug\Leiterwiderstand.Properties.Resources.resources
+obj\Debug\Leiterwiderstand.csproj.GenerateResource.Cache
+bin\Debug\Leiterwiderstand.exe
+bin\Debug\Leiterwiderstand.pdb

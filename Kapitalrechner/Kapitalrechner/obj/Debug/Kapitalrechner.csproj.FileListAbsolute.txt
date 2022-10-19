@@ -1,0 +1,16 @@
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Kapitalrechner\bin\Debug\Kapitalrechner.exe
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Kapitalrechner\bin\Debug\Kapitalrechner.pdb
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Kapitalrechner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Kapitalrechner\obj\Debug\Kapitalrechner.Form1.resources
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Kapitalrechner\obj\Debug\Kapitalrechner.Properties.Resources.resources
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Kapitalrechner\obj\Debug\Kapitalrechner.csproj.GenerateResource.Cache
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Kapitalrechner\obj\Debug\Kapitalrechner.exe
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Kapitalrechner\obj\Debug\Kapitalrechner.pdb
+D:\c#\Kapitalrechner\Kapitalrechner\obj\Debug\Kapitalrechner.exe
+D:\c#\Kapitalrechner\Kapitalrechner\obj\Debug\Kapitalrechner.pdb
+D:\c#\Kapitalrechner\Kapitalrechner\bin\Debug\Kapitalrechner.exe
+D:\c#\Kapitalrechner\Kapitalrechner\bin\Debug\Kapitalrechner.pdb
+D:\c#\Kapitalrechner\Kapitalrechner\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\Kapitalrechner\Kapitalrechner\obj\Debug\Kapitalrechner.Form1.resources
+D:\c#\Kapitalrechner\Kapitalrechner\obj\Debug\Kapitalrechner.Properties.Resources.resources
+D:\c#\Kapitalrechner\Kapitalrechner\obj\Debug\Kapitalrechner.csproj.GenerateResource.Cache

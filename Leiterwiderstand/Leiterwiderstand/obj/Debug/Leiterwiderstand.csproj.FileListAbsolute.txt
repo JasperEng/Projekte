@@ -1,0 +1,10 @@
+\\gel-srv01\benutzer$\frank.guthoff\Desktop\Leiterwiderstand\Leiterwiderstand\obj\Debug\Leiterwiderstand.exe
+K:\THBM1\SYANW (GUT)\Leiterwiderstand\Leiterwiderstand\obj\Debug\Leiterwiderstand.exe
+D:\c#\Leiterwiderstand\Leiterwiderstand\obj\Debug\Leiterwiderstand.exe
+D:\c#\Leiterwiderstand\Leiterwiderstand\bin\Debug\Leiterwiderstand.exe
+D:\c#\Leiterwiderstand\Leiterwiderstand\bin\Debug\Leiterwiderstand.pdb
+D:\c#\Leiterwiderstand\Leiterwiderstand\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\Leiterwiderstand\Leiterwiderstand\obj\Debug\Leiterwiderstand.Form1.resources
+D:\c#\Leiterwiderstand\Leiterwiderstand\obj\Debug\Leiterwiderstand.Properties.Resources.resources
+D:\c#\Leiterwiderstand\Leiterwiderstand\obj\Debug\Leiterwiderstand.csproj.GenerateResource.Cache
+D:\c#\Leiterwiderstand\Leiterwiderstand\obj\Debug\Leiterwiderstand.pdb
