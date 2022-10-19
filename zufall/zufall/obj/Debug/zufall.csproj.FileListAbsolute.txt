@@ -1,0 +1,16 @@
+\\gel-srv01\benutzer$\Kilian.kasper\Documents\Visual Studio 2008\Projects\zufall\zufall\obj\Debug\ResolveAssemblyReference.cache
+\\gel-srv01\benutzer$\Kilian.kasper\Documents\Visual Studio 2008\Projects\zufall\zufall\obj\Debug\zufall.Form1.resources
+\\gel-srv01\benutzer$\Kilian.kasper\Documents\Visual Studio 2008\Projects\zufall\zufall\obj\Debug\zufall.Properties.Resources.resources
+\\gel-srv01\benutzer$\Kilian.kasper\Documents\Visual Studio 2008\Projects\zufall\zufall\obj\Debug\zufall.csproj.GenerateResource.Cache
+\\gel-srv01\benutzer$\Kilian.kasper\Documents\Visual Studio 2008\Projects\zufall\zufall\bin\Debug\zufall.exe
+\\gel-srv01\benutzer$\Kilian.kasper\Documents\Visual Studio 2008\Projects\zufall\zufall\bin\Debug\zufall.pdb
+\\gel-srv01\benutzer$\Kilian.kasper\Documents\Visual Studio 2008\Projects\zufall\zufall\obj\Debug\zufall.exe
+\\gel-srv01\benutzer$\Kilian.kasper\Documents\Visual Studio 2008\Projects\zufall\zufall\obj\Debug\zufall.pdb
+D:\c#\zufall\zufall\obj\Debug\zufall.exe
+D:\c#\zufall\zufall\obj\Debug\zufall.pdb
+D:\c#\zufall\zufall\bin\Debug\zufall.exe
+D:\c#\zufall\zufall\bin\Debug\zufall.pdb
+D:\c#\zufall\zufall\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\zufall\zufall\obj\Debug\zufall.Form1.resources
+D:\c#\zufall\zufall\obj\Debug\zufall.Properties.Resources.resources
+D:\c#\zufall\zufall\obj\Debug\zufall.csproj.GenerateResource.Cache
