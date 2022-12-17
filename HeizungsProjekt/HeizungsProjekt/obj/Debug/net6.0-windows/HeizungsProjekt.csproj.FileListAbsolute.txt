@@ -1,0 +1,17 @@
+D:\c#\HeizungsProjekt\HeizungsProjekt\bin\Debug\net6.0-windows\HeizungsProjekt.exe
+D:\c#\HeizungsProjekt\HeizungsProjekt\bin\Debug\net6.0-windows\HeizungsProjekt.deps.json
+D:\c#\HeizungsProjekt\HeizungsProjekt\bin\Debug\net6.0-windows\HeizungsProjekt.runtimeconfig.json
+D:\c#\HeizungsProjekt\HeizungsProjekt\bin\Debug\net6.0-windows\HeizungsProjekt.dll
+D:\c#\HeizungsProjekt\HeizungsProjekt\bin\Debug\net6.0-windows\ref\HeizungsProjekt.dll
+D:\c#\HeizungsProjekt\HeizungsProjekt\bin\Debug\net6.0-windows\HeizungsProjekt.pdb
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\HeizungsProjekt.csproj.AssemblyReference.cache
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\HeizungsProjekt.HeizungForm.resources
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\HeizungsProjekt.csproj.GenerateResource.cache
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\HeizungsProjekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\HeizungsProjekt.AssemblyInfoInputs.cache
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\HeizungsProjekt.AssemblyInfo.cs
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\HeizungsProjekt.csproj.CoreCompileInputs.cache
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\HeizungsProjekt.dll
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\ref\HeizungsProjekt.dll
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\HeizungsProjekt.pdb
+D:\c#\HeizungsProjekt\HeizungsProjekt\obj\Debug\net6.0-windows\HeizungsProjekt.genruntimeconfig.cache

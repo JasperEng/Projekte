@@ -1,0 +1,17 @@
+E:\c#\KontoProjekt\KontoProjekt\bin\Debug\net6.0-windows\KontoProjekt.exe
+E:\c#\KontoProjekt\KontoProjekt\bin\Debug\net6.0-windows\KontoProjekt.deps.json
+E:\c#\KontoProjekt\KontoProjekt\bin\Debug\net6.0-windows\KontoProjekt.runtimeconfig.json
+E:\c#\KontoProjekt\KontoProjekt\bin\Debug\net6.0-windows\KontoProjekt.dll
+E:\c#\KontoProjekt\KontoProjekt\bin\Debug\net6.0-windows\ref\KontoProjekt.dll
+E:\c#\KontoProjekt\KontoProjekt\bin\Debug\net6.0-windows\KontoProjekt.pdb
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\KontoProjekt.csproj.AssemblyReference.cache
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\KontoProjekt.KontoForms.resources
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\KontoProjekt.csproj.GenerateResource.cache
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\KontoProjekt.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\KontoProjekt.AssemblyInfoInputs.cache
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\KontoProjekt.AssemblyInfo.cs
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\KontoProjekt.csproj.CoreCompileInputs.cache
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\KontoProjekt.dll
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\ref\KontoProjekt.dll
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\KontoProjekt.pdb
+E:\c#\KontoProjekt\KontoProjekt\obj\Debug\net6.0-windows\KontoProjekt.genruntimeconfig.cache
